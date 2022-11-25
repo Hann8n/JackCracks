@@ -1,6 +1,6 @@
 {
     "name": "Jacks Cracks",
-    "identifier": "com.Jcracks.source",
+    "identifier": "com.Jackscracks.source",
     "apps": [
         {
             "name": "MovieBoxPro",
@@ -20,9 +20,9 @@
 				"usageDescription": "Allows MovieBoxPro to use images from your Photo Library as Profile Picture."
 			}],
             "screenshotURLs": [
-                "https://static.appdb.to/images/cydia-1900000473-iphone-0-1632331622.png",
-                "https://static.appdb.to/images/cydia-1900000473-iphone-1-1632331622.png",
-                "https://static.appdb.to/images/cydia-1900000473-iphone-3-1632331623.png"
+                "https://mbpimages.chuaxin.com/screenshot/ios/5e0317a8284b6.jpg",
+                "https://mbpimages.chuaxin.com/screenshot/ios/5e031d09b2ff4.jpg",
+                "https://mbpimages.chuaxin.com/screenshot/ios/5e031868c50cf.jpg"
             ]
         }
     ],
@@ -32,7 +32,7 @@
             "identifier": "com.xd.mbp31",
             "caption": "Watch Movies & TV for free with MovieBoxPro",
             "tintColor": "#000000",
-            "imageURL": "https://www.movieboxpro.app/static/img/apple_download.png",
+            "imageURL": "https://cdn.vox-cdn.com/thumbor/tJTbF1SA7AsPnRB_OYL_1TZa-Rw=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/65654644/jbareham_191104_0970_streaming_0001.0.jpg",
             "appID": "com.xd.mbp31",
             "date": "2022-11-24",
             "notify": true
