@@ -1,0 +1,55 @@
+{
+	"name": "JacksCracks Source",
+	"identifier": "jackscracks.source",
+	"sourceURL": "https://burritosoftware.github.io/altstore/channels/burritosource.json",
+	"apps": [{
+			"name": "MovieBox Pro",
+			"bundleIdentifier": "movieboxpro.app",
+			"developerName": "MovieBox Team",
+			"subtitle": "Steam Movies and TV for free",
+			"version": "11.6",
+			"versionDate": "2022-11-25",
+			"versionDescription": "Fix google sign in",
+			"downloadURL": "https://www.movieboxpro.app/ipa",
+			"localizedDescription": "MovieBoxPro is a best in-class streaming service. Enjoy Movies and TV on your phone or cast to your smartTV",
+			"iconURL": "https://static.appdb.to/images/cydia-1900000473-icon-1632331220.png",
+			"tintColor": "FC2125",
+			"size": 857669,
+			"permissions": [{
+				"type": "photos",
+				"usageDescription": "Allows MovieBoxPro access to photo album."
+            }
+            {
+                "type": "Network devices",
+                "usageDescription": "Allows casting to chromecast devices."
+			}],
+			"screenshotURLs": [
+				"https://static.appdb.to/images/cydia-1900000473-iphone-0-1632331622.png",
+				"https://static.appdb.to/images/cydia-1900000473-iphone-1-1632331622.png",
+				"https://static.appdb.to/images/cydia-1900000473-iphone-3-1632331623.png"
+			]
+        }
+    ],
+	"news": [
+		{
+			"title": "What's New",
+			"identifier": "whatsnew",
+			"caption": "- Added MovieBoxPro",
+			"tintColor": "018084",
+			"date": "2022-11-25",
+			"notify": false
+		},
+		{
+			"title": "Welcome to Jacks Cracks Source",
+			"identifier": "connection",
+			"caption": "Release Channel: source | Version: 1.0b | Tap to visit my website.",
+			"tintColor": "FF9500",
+			"url": "https://burritosoftware.github.io/altstore",
+			"date": "2022-11-25",
+			"notify": false
+		}
+	]
+}
+
+
+
