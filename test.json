@@ -13,22 +13,21 @@
             "downloadURL": "https://www.movieboxpro.app/ipa",
             "localizedDescription": "MovieBoxPro is a best in-class streaming service. Enjoy Movies and TV on your phone or cast to your smartTV.",
             "iconURL": "https://static.appdb.to/images/cydia-1900000473-icon-1632331220.png",
-            "tintColor": "0093E9",
+            "tintColor": "ffdd45",
             "size": 22000000,
             "screenshotURLs": [
-                "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen1.png",
-                "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen2.png",
-                "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen3.png",
-                "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen4.png"
+                "https://static.appdb.to/images/cydia-1900000473-iphone-0-1632331622.png",
+                "https://static.appdb.to/images/cydia-1900000473-iphone-1-1632331622.png",
+                "https://static.appdb.to/images/cydia-1900000473-iphone-3-1632331623.png"
             ]
         }
     ],
     "news": [
         {
-            "title": "Channels now available on AltStore!",
-            "identifier": "channels-x-altstore",
-            "caption": "Live TV you're used to, better.",
-            "tintColor": "0093E9",
+            "title": "MovieBoxPro now available on AltStore!",
+            "identifier": "app.MovieBoxPro.vip",
+            "caption": "Watch Movies & TV for free with MovieBoxPro",
+            "tintColor": "ffdd45",
             "imageURL": "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/banner.png",
             "appID": "com.channelsapp.channels",
             "date": "2021-03-24",
