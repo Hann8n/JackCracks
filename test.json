@@ -15,6 +15,10 @@
             "iconURL": "https://static.appdb.to/images/cydia-1900000473-icon-1632331220.png",
             "tintColor": "#c29f00",
             "size": 22000000,
+            "permissions": [{
+				"type": "photos",
+				"usageDescription": "Allows MovieBoxPro to use images from your Photo Library as Profile Picture."
+			}],
             "screenshotURLs": [
                 "https://static.appdb.to/images/cydia-1900000473-iphone-0-1632331622.png",
                 "https://static.appdb.to/images/cydia-1900000473-iphone-1-1632331622.png",
@@ -27,8 +31,8 @@
             "title": "MovieBoxPro now available on AltStore!",
             "identifier": "com.xd.mbp31",
             "caption": "Watch Movies & TV for free with MovieBoxPro",
-            "tintColor": "#c29f00",
-            "imageURL": "https://www.movieboxpro.app/static/img/pc/vip_1.png",
+            "tintColor": "#000000",
+            "imageURL": "https://www.movieboxpro.app/static/img/apple_download.png",
             "appID": "com.xd.mbp31",
             "date": "2022-11-24",
             "notify": true
