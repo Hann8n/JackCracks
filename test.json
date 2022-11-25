@@ -27,7 +27,7 @@
         },
 	{
             "name": "CercubePlus",
-            "bundleIdentifier": "cercube.plus",
+            "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "qnBlackcat",
             "subtitle": "Enjoy Ad-free youtube",
             "version": "5.3.11",
