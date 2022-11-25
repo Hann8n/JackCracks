@@ -48,6 +48,29 @@
 		"https://www.bing.com/th?id=ODL.2ffca1faf73fe86aaa5e2136e27dba18&w=146&h=260&rs=1&qlt=90&o=6&dpr=2&pid=13.1"
             ]
         }
+        {
+            "name": "Spotify++",
+            "bundleIdentifier": "spotify.app",
+            "developerName": "@iJulioVerne",
+            "subtitle": "Want a break from the ads?",
+            "version": "5.3.11",
+            "versionDate": "2022-11-19T00:00:00-00:00",
+            "versionDescription": "• Updated to latest Spotify version",
+            "downloadURL": "https://github.com/ipahacks/ipas/blob/main/spotify++.ipa?raw=true",
+            "localizedDescription": "Spotify Free with No Ads, Unlimited skips, and Shuffle only mode disabled",
+            "iconURL": "https://clipground.com/images/spotify-clipart-png-3.png",
+            "tintColor": "#ff0000",
+            "size": 22000000,
+            "permissions": [{
+				"type": "photos",
+				"usageDescription": "Allows Youtube to use camera roll for uploading content."
+			}],
+            "screenshotURLs": [
+                "https://www.bing.com/th?id=ODL.10d8cf8ab50a5640954bd429021fab23&w=146&h=260&rs=1&qlt=90&o=6&dpr=2&pid=13.1",
+                "https://www.bing.com/th?id=ODL.e6c70edf4df26d9b85e95a72a08c336b&w=146&h=260&rs=1&qlt=90&o=6&dpr=2&pid=13.1",
+		"https://www.bing.com/th?id=ODL.2ffca1faf73fe86aaa5e2136e27dba18&w=146&h=260&rs=1&qlt=90&o=6&dpr=2&pid=13.1"
+            ]
+        }
     ],
     "news": [
         {
