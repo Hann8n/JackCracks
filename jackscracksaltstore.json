@@ -7,9 +7,12 @@
 		"bundleIdentifier": "com.xd.mbp31",
 		"developerName": "MBP Team",
 		"subtitle": "Watch Movies & TV for free with MovieBoxPro",
-		"version": "11.6",
-		"versionDate": "2022-11-24T00:00:00-00:00",
-		"versionDescription": "• Fixed Google Sign-in",
+		"version": "11.7",
+		"versionDate": "2022-11-26T00:00:00-00:00",
+		"versionDescription": " - Optimize the skip opening and ending.
+- Video player on iOS16 support force rotating to landscape orientation while device orientation is locked.
+- Fix the issue that cannot use gesture adjusting brightness on VLC player.
+- Fix the issue that  sometimes  cannot show the menu after tapping video screen.",
 		"downloadURL": "https://www.movieboxpro.app/ipa",
 		"localizedDescription": "MovieBoxPro is a best in-class streaming service. Enjoy Movies and TV on your phone or cast to your smartTV.",
 		"iconURL": "https://static.appdb.to/images/cydia-1900000473-icon-1632331220.png",
@@ -20,9 +23,10 @@
 			"usageDescription": "Allows MovieBoxPro to use images from your Photo Library as Profile Picture."
 		}],
 		"screenshotURLs": [
-			"https://mbpimages.chuaxin.com/screenshot/ios/5e0317a8284b6.jpg",
-			"https://mbpimages.chuaxin.com/screenshot/ios/5e031d09b2ff4.jpg",
-			"https://mbpimages.chuaxin.com/screenshot/ios/5e031868c50cf.jpg"
+			"https://static.appdb.to/images/cydia-1900000473-iphone-0-1669498440.png",
+			"https://static.appdb.to/images/cydia-1900000473-iphone-1-1669498440.png",
+			"https://static.appdb.to/images/cydia-1900000473-iphone-2-1669498440.png",
+			"https://static.appdb.to/images/cydia-1900000473-iphone-3-1669498441.png"
 		]
 	},
 {
