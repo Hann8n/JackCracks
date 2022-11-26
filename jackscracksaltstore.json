@@ -9,10 +9,7 @@
 		"subtitle": "Watch Movies & TV for free with MovieBoxPro",
 		"version": "11.7",
 		"versionDate": "2022-11-26T00:00:00-00:00",
-		"versionDescription": " - Optimize the skip opening and ending.
-- Video player on iOS16 support force rotating to landscape orientation while device orientation is locked.
-- Fix the issue that cannot use gesture adjusting brightness on VLC player.
-- Fix the issue that  sometimes  cannot show the menu after tapping video screen.",
+		"versionDescription": " - Optimize the skip opening and ending.",
 		"downloadURL": "https://www.movieboxpro.app/ipa",
 		"localizedDescription": "MovieBoxPro is a best in-class streaming service. Enjoy Movies and TV on your phone or cast to your smartTV.",
 		"iconURL": "https://static.appdb.to/images/cydia-1900000473-icon-1632331220.png",
