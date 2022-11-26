@@ -17,7 +17,7 @@
             "size": 22000000,
             "permissions": [{
 				"type": "photos",
-				"usageDescription": "Allows Youtube to use camera roll for uploading content."
+				"usageDescription": "Allows Spotify to use camera roll for uploading images."
 			}],
             "screenshotURLs": [
                 "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/30/ad/63/30ad63ab-36cb-1d86-0491-81bbde206206/11f066fc-c281-4747-a9b6-9cc90fd221c4_iOS_-_5.5_-_THOL_-_S01_-_en-GB.png/392x696bb.png",
