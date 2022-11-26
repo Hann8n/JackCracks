@@ -1,63 +1,65 @@
-    "name": "Jack's Essentials",
-    "identifier": "com.Jackcracks.source",
-    "apps": [
-        {
-            "name": "MovieBoxPro",
-            "bundleIdentifier": "com.xd.mbp31",
-            "developerName": "MBP Team",
-            "subtitle": "Watch Movies & TV for free with MovieBoxPro",
-            "version": "11.6",
-            "versionDate": "2022-11-24T00:00:00-00:00",
-            "versionDescription": "• Fixed Google Sign-in",
-            "downloadURL": "https://www.movieboxpro.app/ipa",
-            "localizedDescription": "MovieBoxPro is a best in-class streaming service. Enjoy Movies and TV on your phone or cast to your smartTV.",
-            "iconURL": "https://static.appdb.to/images/cydia-1900000473-icon-1632331220.png",
-            "tintColor": "#c29f00",
-            "size": 22000000,
-            "permissions": [{
-				"type": "photos",
-				"usageDescription": "Allows MovieBoxPro to use images from your Photo Library as Profile Picture."
-			}],
-            "screenshotURLs": [
-                "https://mbpimages.chuaxin.com/screenshot/ios/5e0317a8284b6.jpg",
-                "https://mbpimages.chuaxin.com/screenshot/ios/5e031d09b2ff4.jpg",
-                "https://mbpimages.chuaxin.com/screenshot/ios/5e031868c50cf.jpg"
-            ]
-        },
+{
+"name":"Jack's Essentials",
+"identifier": "com.Jackcracks.source",
+"apps": [
 	{
-            "name": "CercubePlus",
-            "bundleIdentifier": "com.google.ios.youtube",
-            "developerName": "qnBlackcat",
-            "subtitle": "Enjoy Ad-free youtube",
-            "version": "5.3.11",
-            "versionDate": "2022-11-19T00:00:00-00:00",
-            "versionDescription": "• Updated to YouTube v17.43.1",
-            "downloadURL": "https://github.com/qnblackcat/CercubePlus/releases/download/v17.43.1-5.3.11/CercubePlus_17.43.1_5.3.11.ipa",
-            "localizedDescription": "Youtube as it should be, No Ads, No Sponsors, No problems",
-            "iconURL": "https://static.appdb.to/images/cydia-1900000885-icon-1649258072.png",
-            "tintColor": "#ff0000",
-            "size": 22000000,
-            "permissions": [{
-				"type": "photos",
-				"usageDescription": "Allows Youtube to use camera roll for uploading content."
-			}],
-            "screenshotURLs": [
-                "https://www.bing.com/th?id=ODL.10d8cf8ab50a5640954bd429021fab23&w=146&h=260&rs=1&qlt=90&o=6&dpr=2&pid=13.1",
-                "https://www.bing.com/th?id=ODL.e6c70edf4df26d9b85e95a72a08c336b&w=146&h=260&rs=1&qlt=90&o=6&dpr=2&pid=13.1",
-		"https://www.bing.com/th?id=ODL.2ffca1faf73fe86aaa5e2136e27dba18&w=146&h=260&rs=1&qlt=90&o=6&dpr=2&pid=13.1"
-            ]
-        }
-	    ],
-    "news": [
-        {
-            "title": "MovieBoxPro is now available on AltStore!",
-            "identifier": "com.xd.mbp31",
-            "caption": "Watch Movies & TV for free with MovieBoxPro",
-            "tintColor": "#433800",
-            "imageURL": "https://cdn.vox-cdn.com/thumbor/tJTbF1SA7AsPnRB_OYL_1TZa-Rw=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/65654644/jbareham_191104_0970_streaming_0001.0.jpg",
-            "appID": "com.xd.mbp31",
-            "date": "2022-11-24",
-            "notify": true
-        }
-    ],
-    "userInfo": {}
+		"name": "MovieBoxPro",
+		"bundleIdentifier": "com.xd.mbp31",
+		"developerName": "MBP Team",
+		"subtitle": "Watch Movies & TV for free with MovieBoxPro",
+		"version": "11.6",
+		"versionDate": "2022-11-24T00:00:00-00:00",
+		"versionDescription": "• Fixed Google Sign-in",
+		"downloadURL": "https://www.movieboxpro.app/ipa",
+		"localizedDescription": "MovieBoxPro is a best in-class streaming service. Enjoy Movies and TV on your phone or cast to your smartTV.",
+		"iconURL": "https://static.appdb.to/images/cydia-1900000473-icon-1632331220.png",
+		"tintColor": "#c29f00",
+		"size": 22000000,
+		"permissions": [{
+			"type": "photos",
+			"usageDescription": "Allows MovieBoxPro to use images from your Photo Library as Profile Picture."
+		}],
+		"screenshotURLs": [
+			"https://mbpimages.chuaxin.com/screenshot/ios/5e0317a8284b6.jpg",
+			"https://mbpimages.chuaxin.com/screenshot/ios/5e031d09b2ff4.jpg",
+			"https://mbpimages.chuaxin.com/screenshot/ios/5e031868c50cf.jpg"
+		]
+	},
+{
+		"name": "CercubePlus",
+		"bundleIdentifier": "com.google.ios.youtube",
+		"developerName": "qnBlackcat",
+		"subtitle": "Enjoy Ad-free youtube",
+		"version": "5.3.11",
+		"versionDate": "2022-11-19T00:00:00-00:00",
+		"versionDescription": "• Updated to YouTube v17.43.1",
+		"downloadURL": "https://github.com/qnblackcat/CercubePlus/releases/download/v17.43.1-5.3.11/CercubePlus_17.43.1_5.3.11.ipa",
+		"localizedDescription": "Youtube as it should be, No Ads, No Sponsors, No problems",
+		"iconURL": "https://static.appdb.to/images/cydia-1900000885-icon-1649258072.png",
+		"tintColor": "#ff0000",
+		"size": 22000000,
+		"permissions": [{
+			"type": "photos",
+			"usageDescription": "Allows Youtube to use camera roll for uploading content."
+		}],
+		"screenshotURLs": [
+			"https://www.bing.com/th?id=ODL.10d8cf8ab50a5640954bd429021fab23&w=146&h=260&rs=1&qlt=90&o=6&dpr=2&pid=13.1",
+			"https://www.bing.com/th?id=ODL.e6c70edf4df26d9b85e95a72a08c336b&w=146&h=260&rs=1&qlt=90&o=6&dpr=2&pid=13.1",
+	"https://www.bing.com/th?id=ODL.2ffca1faf73fe86aaa5e2136e27dba18&w=146&h=260&rs=1&qlt=90&o=6&dpr=2&pid=13.1"
+		]
+	}
+	],
+"news": [
+	{
+		"title": "MovieBoxPro is now available on AltStore!",
+		"identifier": "com.xd.mbp31",
+		"caption": "Watch Movies & TV for free with MovieBoxPro",
+		"tintColor": "#433800",
+		"imageURL": "https://cdn.vox-cdn.com/thumbor/tJTbF1SA7AsPnRB_OYL_1TZa-Rw=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/65654644/jbareham_191104_0970_streaming_0001.0.jpg",
+		"appID": "com.xd.mbp31",
+		"date": "2022-11-24",
+		"notify": true
+	}
+],
+"userInfo": {}
+}
