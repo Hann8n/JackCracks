@@ -47,8 +47,33 @@
 			"https://www.bing.com/th?id=ODL.e6c70edf4df26d9b85e95a72a08c336b&w=146&h=260&rs=1&qlt=90&o=6&dpr=2&pid=13.1",
 	"https://www.bing.com/th?id=ODL.2ffca1faf73fe86aaa5e2136e27dba18&w=146&h=260&rs=1&qlt=90&o=6&dpr=2&pid=13.1"
 		]
-	}
-	],
+	},
+{
+            "name": "Spotify++",
+            "bundleIdentifier": "spotify.app",
+            "developerName": "@iJulioVerne",
+            "subtitle": "Want a break from the ads?",
+            "version": "8.7.86",
+            "versionDate": "2022-11-19T00:00:00-00:00",
+            "versionDescription": "• Updated to latest Spotify version",
+            "downloadURL": "https://github.com/ipahacks/ipas/blob/main/spotify++.ipa?raw=true",
+            "localizedDescription": "Spotify Free with No Ads, Unlimited skips, and Shuffle only mode disabled",
+            "iconURL": "https://clipground.com/images/spotify-clipart-png-3.png",
+            "tintColor": "#1ed760",
+            "size": 22000000,
+            "permissions": [{
+				"type": "photos",
+				"usageDescription": "Allows Spotify to use camera roll for uploading images."
+			}],
+            "screenshotURLs": [
+                "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/30/ad/63/30ad63ab-36cb-1d86-0491-81bbde206206/11f066fc-c281-4747-a9b6-9cc90fd221c4_iOS_-_5.5_-_THOL_-_S01_-_en-GB.png/392x696bb.png",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/45/92/8e/45928eee-0c12-c3df-c1a5-23d0b772ba91/8bd1ae8b-d262-453d-a39b-150123163c7b_iOS_-_5.5_-_THOL_-_S02_-_en-GB.png/392x696bb.png",
+		"https://is4-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/19/4a/c5/194ac524-3b76-29b7-a537-9331fc7bd231/0325ebf4-1988-47ba-ab17-0d341f13c4da_iOS_-_5.5_-_THOL_-_S03_-_en-GB.png/392x696bb.png",
+		"https://is2-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/1a/86/c2/1a86c243-2d8c-dc07-dfd5-8ce17a515a2e/44b1252b-c100-4bb7-b8f4-9530266e1652_iOS_-_5.5_-_THOL_-_S04_-_en-GB.png/392x696bb.png",
+		"https://is4-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/d1/e6/4d/d1e64d0c-002a-25c1-3475-5ac4fb18c944/cbf8976b-a2c5-431e-b976-db6677fed6d0_iOS_-_5.5_-_THOL_-_S07_-_en-GB.png/392x696bb.png"    
+            ]
+        }
+],
 "news": [
 	{
 		"title": "MovieBoxPro is now available on AltStore!",
