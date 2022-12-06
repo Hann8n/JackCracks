@@ -3,40 +3,38 @@
     "identifier": "com.Jacktest.source",
     "apps": [
         {
-            "name": "Spotify++",
-            "bundleIdentifier": "spotify.app",
-            "developerName": "@iJulioVerne",
+            "name": "Photomath+",
+            "bundleIdentifier": "photomath.app",
+            "developerName": "",
             "subtitle": "Want a break from the ads?",
-            "version": "8.7.86",
-            "versionDate": "2022-11-19T00:00:00-00:00",
-            "versionDescription": "• Updated to latest Spotify version",
-            "downloadURL": "https://github.com/ipahacks/ipas/blob/main/spotify++.ipa?raw=true",
-            "localizedDescription": "Spotify Free with No Ads, Unlimited skips, and Shuffle only mode disabled",
-            "iconURL": "https://clipground.com/images/spotify-clipart-png-3.png",
-            "tintColor": "#1ed760",
+            "version": "8.15",
+            "versionDate": "2022-12-01T00:00:00-00:00",
+            "versionDescription": "• Updated to latest version",
+            "downloadURL": "https://mega.nz/file/FL9URbqK#XECDD9VJSLnvpohVYdV7iYBaxJ_KC6TI5Vty55IIUzs",
+            "localizedDescription": "Photomath Plus cracked",
+            "iconURL": "https://static.appdb.to/images/cydia-1900000779-icon-1613615092.png",
+            "tintColor": "#be0b33",
             "size": 22000000,
             "permissions": [{
 				"type": "photos",
-				"usageDescription": "Allows Spotify to use camera roll for uploading images."
+				"usageDescription": "Allows Photomath to use camera roll for uploading images."
 			}],
             "screenshotURLs": [
-                "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/30/ad/63/30ad63ab-36cb-1d86-0491-81bbde206206/11f066fc-c281-4747-a9b6-9cc90fd221c4_iOS_-_5.5_-_THOL_-_S01_-_en-GB.png/392x696bb.png",
-                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/45/92/8e/45928eee-0c12-c3df-c1a5-23d0b772ba91/8bd1ae8b-d262-453d-a39b-150123163c7b_iOS_-_5.5_-_THOL_-_S02_-_en-GB.png/392x696bb.png",
-		"https://is4-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/19/4a/c5/194ac524-3b76-29b7-a537-9331fc7bd231/0325ebf4-1988-47ba-ab17-0d341f13c4da_iOS_-_5.5_-_THOL_-_S03_-_en-GB.png/392x696bb.png",
-		"https://is2-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/1a/86/c2/1a86c243-2d8c-dc07-dfd5-8ce17a515a2e/44b1252b-c100-4bb7-b8f4-9530266e1652_iOS_-_5.5_-_THOL_-_S04_-_en-GB.png/392x696bb.png",
-		"https://is4-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/d1/e6/4d/d1e64d0c-002a-25c1-3475-5ac4fb18c944/cbf8976b-a2c5-431e-b976-db6677fed6d0_iOS_-_5.5_-_THOL_-_S07_-_en-GB.png/392x696bb.png"    
+                "https://screenlane.com/media/screenshots/photomath-ios-app-screenshot-thumbnail-7923.jpg",
+                "https://screenlane.com/media/screenshots/photomath-ios-app-screenshot-thumbnail-ee30.jpg",
+		"https://screenlane.com/media/screenshots/photomath-ios-app-screenshot-thumbnail-f3b9.jpg"  
             ]
         }
     ],
     "news": [
         {
-            "title": "Spotify++ is now available on AltStore!",
-            "identifier": "spotify.app",
-            "caption": "All your music, none of the ads",
-            "tintColor": "#1ed760",
-            "imageURL": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/spotify-dark-background.jpg",
-            "appID": "com.xd.mbp31",
-            "date": "2022-11-24",
+            "title": "Photomath+ is now available on AltStore!",
+            "identifier": "photomath.app",
+            "caption": "Math made easy",
+            "tintColor": "#be0b33",
+            "imageURL": "https://photomath.com/wp-content/uploads/2022/03/PM_PrintedScanning-scaled.jpg",
+            "appID": "photomath.app",
+            "date": "2022-12-01",
             "notify": true
         }
     ],
