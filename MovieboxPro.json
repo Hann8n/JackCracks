@@ -17,7 +17,7 @@
 		"size": 22000000,
 		"permissions": [{
 			"type": "photos",
-			"usageDescription": "Allows MovieBoxPro to use images from your Photo Library as Profile Picture."
+			"usageDescription": "Allows MovieBoxPro to use images from your Photo Library."
 		}],
 		"screenshotURLs": [
 			"https://static.appdb.to/images/cydia-1900000473-iphone-0-1669498440.png",
