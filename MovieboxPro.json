@@ -32,8 +32,8 @@
 		"title": "MovieBox Pro 11.9 Update!",
 		"identifier": "com.xd.mbp31",
 		"caption": "Never miss the next episode with New Smart Download",
-		"tintColor": "#c29f00",
-		"imageURL": "https://cdn.vox-cdn.com/thumbor/tJTbF1SA7AsPnRB_OYL_1TZa-Rw=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/65654644/jbareham_191104_0970_streaming_0001.0.jpg",
+		"tintColor": "#000000",
+		"imageURL": "https://www.movieboxpro.app/static/img/pc/vip_1.png",
 		"appID": "com.xd.mbp31",
 		"date": "2022-11-24",
 		"notify": false
