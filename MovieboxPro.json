@@ -7,7 +7,7 @@
 		"bundleIdentifier": "com.xd.mbp31",
 		"developerName": "MBP Team",
 		"subtitle": "Watch Movies & TV for free with MovieBoxPro",
-		"version": "12.2",
+		"version": "12.4",
 		"versionDate": "2023-01-05T00:00:00-00:00",
 		"versionDescription": "View Update Logs here https://www.movieboxpro.app/ios_update_log",
 		"downloadURL": "https://www.movieboxpro.app/ipa",
@@ -29,9 +29,9 @@
 ],
 "news": [
 	{
-		"title": "MovieBox Pro 12.2 Update!",
+		"title": "MovieBox Pro 12.4 Update!",
 		"identifier": "com.xd.mbp31",
-		"caption": "Bug Fixes, and some other fun stuff!",
+		"caption": "UI optimizations and bug fixes!",
 		"tintColor": "#000000",
 		"imageURL": "https://www.movieboxpro.app/static/img/pc/vip_1.png",
 		"appID": "com.xd.mbp31",
