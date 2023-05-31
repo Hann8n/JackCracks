@@ -8,8 +8,8 @@
 		"developerName": "MBP Team",
 		"subtitle": "Watch Movies & TV for free with MovieBoxPro",
 		"version": "12.5",
-		"versionDate": "2023-01-05T00:00:00-00:00",
-		"versionDescription": "View Update Logs here https://www.movieboxpro.app/ios_update_log",
+		"versionDate": "2023-05-17T00:00:00-00:00",
+		"versionDescription": "Fix the issue that the TV detail page displays the header twice after setting the movielists to hidden. Fix the issue that the menus may display in an abnormal position when playing with auto landscape mode.",
 		"downloadURL": "https://www.movieboxpro.app/ipa",
 		"localizedDescription": "MovieBoxPro is a best in-class streaming service. Enjoy Movies and TV on your phone or cast to your smartTV.",
 		"iconURL": "https://static.appdb.to/images/cydia-1900000473-icon-1632331220.png",
@@ -29,9 +29,9 @@
 ],
 "news": [
 	{
-		"title": "MovieBox Pro 12.4 Update!",
+		"title": "MovieBox Pro 12.5 Update!",
 		"identifier": "com.xd.mbp31",
-		"caption": "UI optimizations and bug fixes!",
+		"caption": "Now on Altstore!",
 		"tintColor": "#000000",
 		"imageURL": "https://www.movieboxpro.app/static/img/pc/vip_1.png",
 		"appID": "com.xd.mbp31",
