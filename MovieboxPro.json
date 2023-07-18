@@ -1,93 +1,61 @@
-{
-  "name": "MovieBox Pro for AltStore / SideStore",
-  "identifier": "com.MBPAltstore.source",
-  "apps": [
-    {
-      {
-  "name": "AltStore",
-  "identifier": "com.rileytestut.AltStore",
-  "subtitle": "A home for apps that push the boundaries of iOS.",
-  "description": "This is the default source for AltStore. You can add additional sources to manage what apps appear in AltStore.\n\nFor more info, check out our FAQ: https://faq.altstore.io/patreon/beta-access/sources",
-  "website": "https://altstore.io",
-  "apps": [
-    {
-      "name": "AltStore",
-      "bundleIdentifier": "com.rileytestut.AltStore",
-      "developerName": "Riley Testut",
-      "versions": [
+"name":"MovieBox Pro for AltStore / SideStore",
+"identifier": "com.MBPAltstore.source",
+"apps": [
+	{
+		"name": "MovieBoxPro",
+		"bundleIdentifier": "com.xd.mbp31",
+		"developerName": "MBP Team",
+		"subtitle": "Watch Movies & TV for free with MovieBoxPro",
+		"version": "12.7",
+		"versionDate": "2023-05-17T00:00:00-00:00",
+		"versionDescription": "Support download subtitles on OpenSubtitles website for downloaded video. Fix the system player shows other buttons while adjusting volume. Fix some other known issues.",
+		"downloadURL": "https://www.movieboxpro.app/ipa",
+		"localizedDescription": "MovieBoxPro is a best in-class streaming service. Enjoy Movies and TV on your phone or cast to your smartTV.",
+		"iconURL": "https://static.appdb.to/images/cydia-1900000473-icon-1632331220.png",
+		"tintColor": "#c29f00",
+		"size": 22000000,
+		"permissions": [
         {
-          "version": "1.6.3",
-          "date": "2023-04-12T12:00:00-05:00",
-          "localizedDescription": "â€¢ Fixed error fetching Friend Zone patrons due to unexpected nil name\nâ€¢ Fixed incorrect cell height for some News items",
-          "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_6_3.ipa",
-          "size": 5625134
-        },
-        {
-          "version": "1.6.2",
-          "date": "2023-03-22T12:00:00-05:00",
-          "localizedDescription": "âš ï¸ You must manually install this update by re-installing AltStore with AltServer. You do NOT need to delete AltStore first.\n\nThis update fixes the \"no provisioning profile with the requested identifierâ€¦\" error when sideloading or refreshing apps.",
-          "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_6_2.ipa",
-          "size": 5624498
-        },
-        {
-          "version": "1.6.1",
-          "date": "2023-02-20T12:00:00-06:00",
-          "localizedDescription": "â€¢ â€œClear Cacheâ€ button removes non-essential data to free up disk space\nâ€¢ Sideload more than 3 apps via MacDirtyCow exploit*â€ \nâ€¢ Fixes crash when viewing Sources on iOS 12\n\n*Requires iOS 14.0 - 16.1.2 (excluding 15.7.2). iOS 16.2+ not supported.\nâ€ Visit faq.altstore.io for detailed instructions.\n",
-          "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_6_1.ipa",
-          "size": 5626583
-        },
-        {
-          "version": "1.6",
-          "date": "2023-01-30T10:00:00-06:00",
-          "localizedDescription": "NEW\n\nLock Screen Widget (iOS 16+)\nâ€¢ Counts down days until AltStore expires\nâ€¢ Available in 2 different styles: \"icon\" and \"text\"\n\nError Log\nâ€¢ View past errors in more detail\nâ€¢ Tap an error to copy the error message or error code\nâ€¢ Search for error code directly in AltStore FAQ\nâ€¢ Access via new \"Techy Things\" section in settings\n\niOS Version Compatibility\nâ€¢ Checks iOS compatibility for updates and installs \nâ€¢ Asks you to install latest compatible version if not supported\nâ€¢ View unsupported updates from My Apps tab\n\nRevamped Error Handling\nâ€¢ Completely revamped error handling to make debugging issues as easy as possible\nâ€¢ Revised error messages to be more descriptive and provide more suggestions\nâ€¢ Includes more information with errors\n\nMisc.\nâ€¢ Pull-to-refresh to check for updates\nâ€¢ Supports new â€œversionsâ€ key in source JSON\nâ€¢Â Supports updating apps from app detail page\n\nFIXED\nâ€¢ Fixed \"more\" button appearing by mistake on app detail pages\nâ€¢ Fixed widgets potentially not updating after refreshing apps\nâ€¢ Fixed incorrect app name and iOS version in \"Unsupported iOS version\" error message\nâ€¢ Fixed refreshing tweaked apps with removed app extensions\nâ€¢ Fixed incorrect error toast view color when sign-in fails",
-          "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_6.ipa",
-          "size": 5614798
-        }
-      ],
-      "version": "1.6.3",
-      "versionDate": "2023-04-12T12:00:00-05:00",
-      "versionDescription": "â€¢ Fixed error fetching Friend Zone patrons due to unexpected nil name\nâ€¢ Fixed incorrect cell height for some News items",
-      "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/1_6_3.ipa",
-      "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis version of AltStore allows you to install Delta, an all-in-one emulator for iOS, as well as sideload other .ipa files from the Files app.",
-      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
-      "tintColor": "018084",
-      "size": 5625134,
-      "screenshotURLs": [
-        "https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
-        "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
-        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
-      ],
-      "permissions": [
-        {
-          "type": "background-fetch",
-          "usageDescription": "AltStore periodically refreshes apps in the background to prevent them from expiring."
-        },
-        {
-          "type": "background-audio",
-          "usageDescription": "Allows AltStore to run longer than 30 seconds when refreshing apps in background."
+          "type": "photos",
+          "usageDescription": "Allows Delta to use images from your Photo Library as game artwork."
         }
       ],
       "appPermissions": {
         "entitlements": [
           {
-          "name": "get-task-allow"
-        },
-        {
-          "name": "com.apple.security.application-groups"
-        },
-        {
-          "name": "aps-environment"
-        },
-        {
-          "name": "com.apple.developer.siri"
-        }
+            "name": "get-task-allow"
+          }
         ],
         "privacy": [
           {
-          "name": "LocalNetwork",
-          "usageDescription": "AltStore uses the local network to find and communicate with AltServer."
-        }
-      ]
-      }
-    },
-    {
+            "name": "LocalNetwork",
+            "usageDescription": "MovieboxPro uses the local network to connect to Airplay and Chromecast devices."
+          },
+          {
+            "name": "PhotoLibrary",
+            "usageDescription": "Allows MovieBoxPro to use images from your Photo Library as your profile picture."
+          }
+        ]
+		}
+		"screenshotURLs": [
+			"https://static.appdb.to/images/cydia-1900000473-iphone-0-1669498440.png",
+			"https://static.appdb.to/images/cydia-1900000473-iphone-1-1669498440.png",
+			"https://static.appdb.to/images/cydia-1900000473-iphone-2-1669498440.png",
+			"https://static.appdb.to/images/cydia-1900000473-iphone-3-1669498441.png"
+		]
+	}
+],
+"news": [
+	{
+		"title": "MovieBox Pro 12.5 Update!",
+		"identifier": "com.xd.mbp31",
+		"caption": "Now on Altstore!",
+		"tintColor": "#000000",
+		"imageURL": "https://www.movieboxpro.app/static/img/pc/vip_1.png",
+		"appID": "com.xd.mbp31",
+		"date": "2022-11-24",
+		"notify": false
+	}
+],
+"userInfo": {}
+}"
