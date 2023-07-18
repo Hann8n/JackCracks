@@ -47,9 +47,9 @@
 ],
 "news": [
 	{
-		"title": "MovieBox Pro 12.5 Update!",
-		"identifier": "com.xd.mbp31",
-		"caption": "Now on Altstore!",
+		/*"title": "MovieBox Pro 12.5 Update!",
+		/*"identifier": "com.xd.mbp31",
+		/*"caption": "Now on Altstore!",
 		"tintColor": "#000000",
 		"imageURL": "https://www.movieboxpro.app/static/img/pc/vip_1.png",
 		"appID": "com.xd.mbp31",
