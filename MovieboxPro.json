@@ -9,9 +9,7 @@
 		"subtitle": "Watch Movies & TV for free with MovieBoxPro",
 		"version": "12.7",
 		"versionDate": "2023-05-17T00:00:00-00:00",
-		"versionDescription": "Support download subtitles on OpenSubtitles website for downloaded video.
-Fix the system player shows other buttons while adjusting volume.
-Fix some other known issues.",
+		"versionDescription": "Support download subtitles on OpenSubtitles website for downloaded video. Fix the system player shows other buttons while adjusting volume. Fix some other known issues.",
 		"downloadURL": "https://www.movieboxpro.app/ipa",
 		"localizedDescription": "MovieBoxPro is a best in-class streaming service. Enjoy Movies and TV on your phone or cast to your smartTV.",
 		"iconURL": "https://static.appdb.to/images/cydia-1900000473-icon-1632331220.png",
