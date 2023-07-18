@@ -30,10 +30,6 @@
           {
             "name": "LocalNetwork",
             "usageDescription": "MovieBoxPro uses the local network to connect to Airplay and Chromecast devices."
-          },
-          {
-            "name": "PhotoLibrary",
-            "usageDescription": "Allows MovieBoxPro to use images from your Photo Library as your profile picture."
           }
         ]
 		}
