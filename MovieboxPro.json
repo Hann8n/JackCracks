@@ -23,13 +23,13 @@
       "appPermissions": {
         "entitlements": [
           {
-            "name": "get-task-allow"
+            
           }
         ],
         "privacy": [
           {
             "name": "LocalNetwork",
-            "usageDescription": "MovieboxPro uses the local network to connect to Airplay and Chromecast devices."
+            "usageDescription": "MovieBoxPro uses the local network to connect to Airplay and Chromecast devices."
           },
           {
             "name": "PhotoLibrary",
