@@ -1,23 +1,24 @@
-"name":"MovieBox Pro for AltStore / SideStore",
-"identifier": "com.MBPAltstore.source",
-"apps": [
-	{
-		"name": "MovieBoxPro",
-		"bundleIdentifier": "com.xd.mbp31",
-		"developerName": "MBP Team",
-		"subtitle": "Watch Movies & TV for free with MovieBoxPro",
-		"version": "12.7",
-		"versionDate": "2023-05-17T00:00:00-00:00",
-		"versionDescription": "Support download subtitles on OpenSubtitles website for downloaded video. Fix the system player shows other buttons while adjusting volume. Fix some other known issues.",
-		"downloadURL": "https://www.movieboxpro.app/ipa",
-		"localizedDescription": "MovieBoxPro is a best in-class streaming service. Enjoy Movies and TV on your phone or cast to your smartTV.",
-		"iconURL": "https://static.appdb.to/images/cydia-1900000473-icon-1632331220.png",
-		"tintColor": "#c29f00",
-		"size": 22000000,
-		"permissions": [
+{
+  "name": "MovieBox Pro for AltStore / SideStore",
+  "identifier": "com.MBPAltstore.source",
+  "apps": [
+    {
+      "name": "MovieBoxPro",
+      "bundleIdentifier": "com.xd.mbp31",
+      "developerName": "MBP Team",
+      "subtitle": "Watch Movies & TV for free with MovieBoxPro",
+      "version": "12.7",
+      "versionDate": "2023-05-17T00:00:00-00:00",
+      "versionDescription": "Support download subtitles on OpenSubtitles website for downloaded video. Fix the system player shows other buttons while adjusting volume. Fix some other known issues.",
+      "downloadURL": "https://www.movieboxpro.app/ipa",
+      "localizedDescription": "MovieBoxPro is a best in-class streaming service. Enjoy Movies and TV on your phone or cast to your smartTV.",
+      "iconURL": "https://static.appdb.to/images/cydia-1900000473-icon-1632331220.png",
+      "tintColor": "#c29f00",
+      "size": 22000000,
+      "permissions": [
         {
           "type": "photos",
-          "usageDescription": "Allows Delta to use images from your Photo Library as game artwork."
+          "usageDescription": "Allows MovieBoxPro to use images from your Photo Library as game artwork."
         }
       ],
       "appPermissions": {
@@ -32,18 +33,14 @@
             "usageDescription": "MovieBoxPro uses the local network to connect to Airplay and Chromecast devices."
           }
         ]
-		}
-		"screenshotURLs": [
-			"https://static.appdb.to/images/cydia-1900000473-iphone-0-1669498440.png",
-			"https://static.appdb.to/images/cydia-1900000473-iphone-1-1669498440.png",
-			"https://static.appdb.to/images/cydia-1900000473-iphone-2-1669498440.png",
-			"https://static.appdb.to/images/cydia-1900000473-iphone-3-1669498441.png"
-		]
-	}
-],
-"news": [
-	{
-
-	}
-],
-"userInfo": {}
+      },
+      "screenshotURLs": [
+        "https://static.appdb.to/images/cydia-1900000473-iphone-0-1669498440.png",
+        "https://static.appdb.to/images/cydia-1900000473-iphone-1-1669498440.png",
+        "https://static.appdb.to/images/cydia-1900000473-iphone-2-1669498440.png",
+        "https://static.appdb.to/images/cydia-1900000473-iphone-3-1669498441.png"
+      ]
+    }
+  ],
+  "news": []
+}
