@@ -85,11 +85,11 @@
           },
           {
             "name": "LocationAlwaysAndWhenInUse",
-            "usageDescription": "App may ask for location at all times (Not Recommended)."
+            "usageDescription": "App may ask for location at all times. (Not Recommended)"
           },
           {
             "name": "LocationAlways",
-            "usageDescription": "App may ask for location when running in background (Not Recommended)."
+            "usageDescription": "App may ask for location when running in background. (Not Recommended)"
           },
           {
             "name": "PhotoLibraryAdd",
