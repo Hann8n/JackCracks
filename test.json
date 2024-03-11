@@ -60,11 +60,14 @@
         ],
         "privacy": [
           {
+            "NSMicrophoneUsageDescription"
+          }
+          {
             "name": "Camera",
             "usageDescription": "App uses camera."
           },
           {
-            "name": "NSBluetoothAlwaysUsageDescription",
+            "name": "BluetoothAlways",
             "usageDescription": "App uses Bluetooth."
           },
           {
