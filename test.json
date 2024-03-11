@@ -60,9 +60,6 @@
         ],
         "privacy": [
           {
-            "NSMicrophoneUsageDescription"
-          }
-          {
             "name": "Camera",
             "usageDescription": "App uses camera."
           },
