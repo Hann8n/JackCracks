@@ -35,19 +35,13 @@
       "appPermissions": {
         "entitlements": [
           {
-            "name": "com.apple.security.application-groups"
-          },
-          {
-            "name": "com.apple.developer.associated-domains"
+            "name": "beta-reports-active"
           },
           {
             "name": "com.apple.developer.group-session"
           },
           {
-            "name": "com.apple.developer.icloud-container-identifiers"
-          },
-          {
-            "name": "com.apple.developer.ubiquity-kvstore-identifier"
+            "name": "com.apple.developer.networking.wifi-info"
           },
           {
             "name": "keychain-access-groups"
@@ -55,26 +49,27 @@
           {
             "name": "aps-environment"
           },
-          {
-            "name": "com.apple.developer.weatherkit"
-          }
         ],
         "privacy": [
           {
             "name": "Camera",
-            "usageDescription": "App needs camera access."
+            "usageDescription": "App uses camera."
           },
           {
-            "name": "FaceID",
-            "usageDescription": "App uses Face ID."
+            "name": "Bluetooth",
+            "usageDescription": "App uses Bluetooth."
           },
           {
             "name": "LocationWhenInUse",
             "usageDescription": "App needs location when in use."
           },
           {
-            "name": "Motion",
-            "usageDescription": "App uses motion sensors."
+            "name": "Local Network",
+            "usageDescription": "App needs Local Network when casting."
+          },
+          {
+            "name": "Microphone",
+            "usageDescription": "App uses microphone."
           },
           {
             "name": "PhotoLibraryAdd",
@@ -83,6 +78,10 @@
           {
             "name": "PhotoLibrary",
             "usageDescription": "App accesses photo library."
+          },
+          {
+            "name": "User Tracking",
+            "usageDescription": "App may ask to track user."
           }
         ]
       }
