@@ -33,9 +33,9 @@
    {
     "version": "13.3",
     "date": "2024-03-11",
-    "localizedDescription": "First AltStore release!",
+    "localizedDescription": "Bug fixes and Improvements",
     "downloadURL": "https://www.movieboxpro.app/ipa",
-    "size": 79821,
+    "size": 22000,
     "minOSVersion": "11.0",
     "maxOSVersion": "17.4"
   },
@@ -97,14 +97,14 @@
   ],
   "news": [
     {
-      "title": "Apollo for Reddit is now on Altstore",
-      "identifier": "apollo-1",
-      "caption": "Apollo is back with custom API credentials!",
-      "date": "2023-07-06",
-      "tintColor": "3F91FE",
-      "imageURL": "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/news/news_1.webp",
+      "title": "MovieBoxPro is on Altstore 2.0!",
+      "identifier": "mbp-1",
+      "caption": "Source has been updated to support Altstore 2.0",
+      "date": "2024-03-11",
+      "tintColor": "c29f00",
+      "imageURL": "https://www.movieboxpro.app/static/img/pc/introduce_bg1.png",
       "notify": false,
-      "url": "https://balackburn.github.io/Apollo/"
+      "url": "https://www.movieboxpro.app"
     },
   ]
 }
