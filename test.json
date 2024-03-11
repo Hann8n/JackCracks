@@ -61,7 +61,7 @@
         "privacy": [
           {
             "name": "Camera",
-            "usageDescription": "App uses camera."
+            "usageDescription": "App may ask to use camera."
           },
           {
             "name": "BluetoothAlways",
@@ -69,11 +69,11 @@
           },
           {
             "name": "LocationWhenInUse",
-            "usageDescription": "App may ask to use location only when in use. (Not Recommended)"
+            "usageDescription": "App may ask for location when app is in use. (Not Recommended)"
           },
           {
             "name": "LocalNetwork",
-            "usageDescription": "App may ask to use Local Network when casting."
+            "usageDescription": "App may ask to use Local Network, required when casting."
           },
           {
             "name": "Microphone",
@@ -81,19 +81,19 @@
           },
           {
             "name": "BluetoothPeripheral",
-            "usageDescription": "App may ask to access to peripheral bluetooth devices."
+            "usageDescription": "App may ask to access peripheral bluetooth devices, such as a remote."
           },
           {
             "name": "LocationAlwaysAndWhenInUse",
-            "usageDescription": "App may ask to use location always (Not Recommended)."
+            "usageDescription": "App may ask for location at all times (Not Recommended)."
           },
           {
             "name": "LocationAlways",
-            "usageDescription": "App may ask to use location when running in background (Not recommended)."
+            "usageDescription": "App may ask for location when running in background (Not recommended)."
           },
           {
             "name": "PhotoLibraryAdd",
-            "usageDescription": "App may ask to add photos."
+            "usageDescription": "App may ask to add photos to photo library."
           },
           {
             "name": "PhotoLibrary",
