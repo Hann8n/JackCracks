@@ -80,7 +80,7 @@
             "usageDescription": "App may ask to use microphone."
           },
           {
-            "name": "BluetoothPeripherals",
+            "name": "BluetoothPeripheral",
             "usageDescription": "App may ask to access to peripheral bluetooth devices."
           },
           {
