@@ -1,6 +1,7 @@
 {
   "name": "Source Test Playground",
   "identifier": "com.TestPlayground.source",
+  "iconURL": "https://github.com/Hann8n/JackCracks/blob/main/Test%20Playground%20Icon.png?raw=true"
   "headerURL": "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/08/testflight.png?resize=1200,628&quality=82&strip=all&ssl=1",
   "website": "https://www.movieboxpro.app",
   "subtitle": "Just to test app updates.",
