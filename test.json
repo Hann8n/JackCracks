@@ -34,10 +34,10 @@
     "version": "13.3",
     "date": "2024-03-11",
     "localizedDescription": "First AltStore release!",
-    "downloadURL": "MovieBoxPro.app",
+    "downloadURL": "https://www.movieboxpro.app/ipa",
     "size": 79821,
     "minOSVersion": "11.0",
-    "maxOSVersion": "17.4"
+    "maxOSVersion": ""
   },
       ],
       "appPermissions": {
@@ -64,7 +64,7 @@
             "usageDescription": "App uses camera."
           },
           {
-            "name": "Bluetooth",
+            "name": "NSBluetoothAlwaysUsageDescription",
             "usageDescription": "App uses Bluetooth."
           },
           {
