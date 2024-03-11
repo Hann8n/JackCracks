@@ -1,42 +1,205 @@
 {
-    "name": "Jack's Test",
-    "identifier": "com.Jacktest.source",
-    "apps": [
+  "name": "Apollo for Reddit",
+  "identifier": "com.apollo.source",
+  "headerURL": "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/header/altstore_header.png",
+  "website": "https://balackburn.github.io/Apollo",
+  "subtitle": "Apollo for Reddit unofficial Altstore source.",
+  "description": "This is an unofficial Altstore source for Apollo for Reddit tweaked with ImprovedCustomApi by @JeffreyCA.\n\nFor full details, check the GitHub repository:\nhttps://github.com/Balackburn/Apollo",
+  "tintColor": "4453f4",
+  "apps": [
+    {
+      "beta": false,
+      "name": "Apollo for Reddit",
+      "bundleIdentifier": "com.foo.Apollo",
+      "developerName": "Christian Selig (& JeffreyCA)",
+      "subtitle": " The award-winning Reddit app",
+      "version": "1.15.11",
+      "versionDate": "2024-02-28T12:33:18Z",
+      "versionDescription": "Apollo for Reddit (with ImprovedCustomApi) Release Information\r\n\r\nApollo .IPA Version: \"1.15.11\"  \r\nImprovedCustomApi .DEB Version: \"1.0.11\" \r\n\r\nRELEASE 1.15.11\u20221.0.11: (2024\u202202\u202228)\r\n\u2022 Updated ImprovedCustomApi from \"1.0.10\" to \"1.0.11\" \r\n    \u2022 Fix issue with Imgur uploads consistently failing. Note that multi\u2022image uploads may still fail on the first attempt.\r\n\r\nKnown issues\r\n\u2022 Apollo Ultra features may cause app to crash\r\n\u2022 Imgur multi\u2022image upload\r\n  \u2022 Uploads usually fail on the first attempt but subsequent retries should succeed\r\n\u2022 Share URLs in private messages and long\u2022tapping them still open in the in\u2022app browser",
+      "downloadURL": "https://github.com/Balackburn/Apollo/releases/download/v1.15.11-1.0.11/Apollo-1.15.11_improvedcustomapi-1.0.11.ipa",
+      "localizedDescription": "Apollo is an app for Reddit built for customizability, smoothness, gestures, and taking advantage of everything iOS has to offer. Apollo is a beautiful Reddit app built for fast navigation with an incredibly powerful set of features. Thanks to features like the Jump Bar, fully customizable gestures, and a super-charged Media Viewer, browsing Reddit has never been this amazing. It's created specifically with iOS design guidelines in mind, so it fits right at home on your device, and with input from thousands of Redditors helping sculpt and perfect it over several years before launching:\n\n\u2022 Jump Bar, for super-fast hopping between subreddits\n\u2022 Super-charged Media Viewer for an amazing experience viewing images, GIFs, videos, albums, and more from a variety of sources.\n\u2022 Tabbed interface for easy navigating\n\u2022 Incredibly powerful Markdown composer for writing comments and posts\n\u2022 Full inline Imgur uploading, both images and albums\n\u2022 Large or compact posts depending on your preference\n\u2022 Dark mode (can be automatic)\n\u2022 Fully customizable gestures\n\u2022 Safari View Controller for browsing articles and links\n\u2022 Inline previews of media in comments\n\u2022 3D Touch support\n\u2022 Beautifully organized Inbox\n\u2022 Filtering and blocking\n\u2022 Face ID / Touch ID / Passcode lock\n\u2022 Moderator features\n\u2022 Tons of settings to tweak\n\u2022 GIF scrubbing to go backward and forward in time\n\u2022 Multiple accounts\n\u2022 Powerful search\n\u2022 Full Markdown rendering\n\u2022 Unobtrusive Volume Indicator\n\nAs well as much, much more and it's constantly evolving. If you have anything you'd specifically like to see, come to the ApolloApp subreddit and we'd love to hear it! Apollo is an unofficial app, and side effects may include an incredible browsing experience.",
+      "iconURL": "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/image_0.webp",
+      "tintColor": "4453f4",
+      "category": "social",
+      "size": 108157712,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/image_1.webp",
+        "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/image_2.webp",
+        "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/image_3.webp",
+        "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/image_4.webp",
+        "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/image_5.webp",
+        "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/image_6.webp",
+        "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/image_7.webp",
+        "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/image_8.webp"
+      ],
+      "versions": [
         {
-            "name": "Photomath+",
-            "bundleIdentifier": "photomath.app",
-            "developerName": "Liones",
-            "subtitle": "Photomath is the world’s most useful math learning platform",
-            "version": "8.15",
-            "versionDate": "2022-12-01T00:00:00-00:00",
-            "versionDescription": "• Updated to latest version",
-            "downloadURL": "https://mega.nz/file/FL9URbqK#XECDD9VJSLnvpohVYdV7iYBaxJ_KC6TI5Vty55IIUzs",
-            "localizedDescription": "Photomath Plus cracked",
-            "iconURL": "https://static.appdb.to/images/cydia-1900000779-icon-1613615092.png",
-            "tintColor": "#be0b33",
-            "size": 22000000,
-            "permissions": [{
-				"type": "photos",
-				"usageDescription": "Allows Photomath to use camera roll for uploading images."
-			}],
-            "screenshotURLs": [
-                "https://screenlane.com/media/screenshots/photomath-ios-app-screenshot-thumbnail-7923.jpg",
-                "https://screenlane.com/media/screenshots/photomath-ios-app-screenshot-thumbnail-ee30.jpg",
-		"https://screenlane.com/media/screenshots/photomath-ios-app-screenshot-thumbnail-f3b9.jpg"  
-            ]
-        }
-    ],
-    "news": [
+          "version": "1.15.11",
+          "date": "2024-02-28T12:33:18Z",
+          "localizedDescription": "Apollo .IPA Version: \"1.15.11\"  \r\nImprovedCustomApi .DEB Version: \"1.0.11\" \r\n\r\nRELEASE 1.15.11\u20221.0.11: (2024\u202202\u202228)\r\n\u2022 Updated ImprovedCustomApi from \"1.0.10\" to \"1.0.11\" \r\n    \u2022 Fix issue with Imgur uploads consistently failing. Note that multi\u2022image uploads may still fail on the first attempt.\r\n\r\nKnown issues\r\n\u2022 Apollo Ultra features may cause app to crash\r\n\u2022 Imgur multi\u2022image upload\r\n  \u2022 Uploads usually fail on the first attempt but subsequent retries should succeed\r\n\u2022 Share URLs in private messages and long\u2022tapping them still open in the in\u2022app browser",
+          "downloadURL": "https://github.com/Balackburn/Apollo/releases/download/v1.15.11-1.0.11/Apollo-1.15.11_improvedcustomapi-1.0.11.ipa",
+          "size": 108157712
+        },
         {
-            "title": "Photomath+ is now available on AltStore!",
-            "identifier": "photomath.app",
-            "caption": "Math made easy",
-            "tintColor": "#be0b33",
-            "imageURL": "https://photomath.com/wp-content/uploads/2022/03/PM_PrintedScanning-scaled.jpg",
-            "appID": "photomath.app",
-            "date": "2022-12-01",
-            "notify": true
+          "version": "0.0.3",
+          "date": "2023-07-03T20:10:00Z",
+          "localizedDescription": "\u2022 Added: ApolloSideloadFix\r\nThis allows sideloaded apps to save the login state when exiting.\r\nCredit @level3tjg\r\n\u2022 Added: How to Use",
+          "downloadURL": "https://github.com/ichitaso/ApolloPatcher/releases/download/v0.0.3/Apollo_1.15.11_mod_0.0.3.ipa",
+          "size": 110363629
         }
-    ],
-    "userInfo": {}
+      ],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "com.apple.security.application-groups"
+          },
+          {
+            "name": "com.apple.developer.associated-domains"
+          },
+          {
+            "name": "com.apple.developer.group-session"
+          },
+          {
+            "name": "com.apple.developer.icloud-container-identifiers"
+          },
+          {
+            "name": "com.apple.developer.ubiquity-kvstore-identifier"
+          },
+          {
+            "name": "keychain-access-groups"
+          },
+          {
+            "name": "aps-environment"
+          },
+          {
+            "name": "com.apple.developer.weatherkit"
+          }
+        ],
+        "privacy": [
+          {
+            "name": "Camera",
+            "usageDescription": "App needs camera access."
+          },
+          {
+            "name": "FaceID",
+            "usageDescription": "App uses Face ID."
+          },
+          {
+            "name": "LocationWhenInUse",
+            "usageDescription": "App needs location when in use."
+          },
+          {
+            "name": "Motion",
+            "usageDescription": "App uses motion sensors."
+          },
+          {
+            "name": "PhotoLibraryAdd",
+            "usageDescription": "App adds photos."
+          },
+          {
+            "name": "PhotoLibrary",
+            "usageDescription": "App accesses photo library."
+          }
+        ]
+      }
+    }
+  ],
+  "news": [
+    {
+      "title": "Apollo for Reddit is now on Altstore",
+      "identifier": "apollo-1",
+      "caption": "Apollo is back with custom API credentials!",
+      "date": "2023-07-06",
+      "tintColor": "3F91FE",
+      "imageURL": "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/news/news_1.webp",
+      "notify": false,
+      "url": "https://balackburn.github.io/Apollo/"
+    },
+    {
+      "title": "0.0.5 - Apollo for Reddit",
+      "identifier": "release-0.0.5",
+      "caption": "Update of ApolloPatcher just got released!",
+      "date": "2023-07-14T04:04:14Z",
+      "tintColor": "3F91FE",
+      "imageURL": "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/news/news_2.webp",
+      "notify": true,
+      "url": "https://github.com/ichitaso/ApolloPatcher/releases/tag/v0.0.5"
+    },
+    {
+      "title": "1.15.11-1.4 - Apollo for Reddit",
+      "identifier": "release-1.15.11-1.4",
+      "caption": "Update of Apollo (with Artemis) just got released!",
+      "date": "2023-10-11T22:15:35Z",
+      "tintColor": "3F91FE",
+      "imageURL": "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/news/news_2.webp",
+      "notify": true,
+      "url": "https://github.com/Balackburn/Apollo/releases/tag/v1.15.11-1.4"
+    },
+    {
+      "title": "1.15.11-1.0.5 - Apollo for Reddit",
+      "identifier": "release-1.15.11-1.0.5",
+      "caption": "Update of Apollo (with ImprovedCustomApi) just got released!",
+      "appID": "com.foo.Apollo",
+      "date": "2023-12-04T10:09:25Z",
+      "tintColor": "3F91FE",
+      "imageURL": "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/news/news_2.webp",
+      "notify": true,
+      "url": "https://github.com/Balackburn/Apollo/releases/tag/v1.15.11-1.0.5"
+    },
+    {
+      "title": "1.15.11-1.0.7 - Apollo for Reddit",
+      "identifier": "release-1.15.11-1.0.7",
+      "caption": "Update of Apollo (with ImprovedCustomApi) just got released!",
+      "appID": "com.foo.Apollo",
+      "date": "2023-12-08T12:08:07Z",
+      "tintColor": "3F91FE",
+      "imageURL": "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/news/news_2.webp",
+      "notify": true,
+      "url": "https://github.com/Balackburn/Apollo/releases/tag/v1.15.11-1.0.7"
+    },
+    {
+      "title": "1.15.11-1.0.8 - Apollo for Reddit",
+      "identifier": "release-1.15.11-1.0.8",
+      "caption": "Update of Apollo (with ImprovedCustomApi) just got released!",
+      "appID": "com.foo.Apollo",
+      "date": "2023-12-16T15:09:37Z",
+      "tintColor": "3F91FE",
+      "imageURL": "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/news/news_2.webp",
+      "notify": true,
+      "url": "https://github.com/Balackburn/Apollo/releases/tag/v1.15.11-1.0.8"
+    },
+    {
+      "title": "1.15.11-1.0.9 - Apollo for Reddit",
+      "identifier": "release-1.15.11-1.0.9",
+      "caption": "Update of Apollo (with ImprovedCustomApi) just got released!",
+      "appID": "com.foo.Apollo",
+      "date": "2023-12-30T08:52:04Z",
+      "tintColor": "3F91FE",
+      "imageURL": "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/news/news_2.webp",
+      "notify": true,
+      "url": "https://github.com/Balackburn/Apollo/releases/tag/v1.15.11-1.0.9"
+    },
+    {
+      "title": "1.15.11-1.0.10 - Apollo for Reddit",
+      "identifier": "release-1.15.11-1.0.10",
+      "caption": "Update of Apollo (with ImprovedCustomApi) just got released!",
+      "appID": "com.foo.Apollo",
+      "date": "2024-01-23T12:32:35Z",
+      "tintColor": "3F91FE",
+      "imageURL": "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/news/news_2.webp",
+      "notify": true,
+      "url": "https://github.com/Balackburn/Apollo/releases/tag/v1.15.11-1.0.10"
+    },
+    {
+      "title": "1.15.11-1.0.11 - Apollo for Reddit",
+      "identifier": "release-1.15.11-1.0.11",
+      "caption": "Update of Apollo (with ImprovedCustomApi) just got released!",
+      "appID": "com.foo.Apollo",
+      "date": "2024-02-28T12:33:18Z",
+      "tintColor": "3F91FE",
+      "imageURL": "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/news/news_2.webp",
+      "notify": true,
+      "url": "https://github.com/Balackburn/Apollo/releases/tag/v1.15.11-1.0.11"
+    }
+  ]
 }
