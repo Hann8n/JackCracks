@@ -2,9 +2,9 @@
   "name": "MovieBoxPro for AltStore",
   "identifier": "com.MBPAltstore.source",
   "headerURL": "https://www.movieboxpro.app/static/img/pc/introduce_bg1.png",
-  "website": "https://raw.githubusercontent.com/Hann8n/JackCracks/main/MovieboxPro.json",
+  "website": "https://www.movieboxpro.app",
   "subtitle": "MovieBoxPro Unoffical Altstore source.",
-  "description": "This is an auto-updating Altstore source for MovieBoxPro",
+  "description": "This is an auto-updating Altstore source for MovieBoxPro /r/n Github: https://github.com/Hann8n/JackCracks/tree/main",
   "tintColor": "c29f00",
   "apps": [
     {
@@ -30,20 +30,7 @@
       
       ],
       "versions": [
-        {
-          "version": "1.15.11",
-          "date": "2024-02-28T12:33:18Z",
-          "localizedDescription": "Apollo .IPA Version: \"1.15.11\"  \r\nImprovedCustomApi .DEB Version: \"1.0.11\" \r\n\r\nRELEASE 1.15.11\u20221.0.11: (2024\u202202\u202228)\r\n\u2022 Updated ImprovedCustomApi from \"1.0.10\" to \"1.0.11\" \r\n    \u2022 Fix issue with Imgur uploads consistently failing. Note that multi\u2022image uploads may still fail on the first attempt.\r\n\r\nKnown issues\r\n\u2022 Apollo Ultra features may cause app to crash\r\n\u2022 Imgur multi\u2022image upload\r\n  \u2022 Uploads usually fail on the first attempt but subsequent retries should succeed\r\n\u2022 Share URLs in private messages and long\u2022tapping them still open in the in\u2022app browser",
-          "downloadURL": "https://github.com/Balackburn/Apollo/releases/download/v1.15.11-1.0.11/Apollo-1.15.11_improvedcustomapi-1.0.11.ipa",
-          "size": 108157712
-        },
-        {
-          "version": "0.0.3",
-          "date": "2023-07-03T20:10:00Z",
-          "localizedDescription": "\u2022 Added: ApolloSideloadFix\r\nThis allows sideloaded apps to save the login state when exiting.\r\nCredit @level3tjg\r\n\u2022 Added: How to Use",
-          "downloadURL": "https://github.com/ichitaso/ApolloPatcher/releases/download/v0.0.3/Apollo_1.15.11_mod_0.0.3.ipa",
-          "size": 110363629
-        }
+   
       ],
       "appPermissions": {
         "entitlements": [
@@ -112,91 +99,5 @@
       "notify": false,
       "url": "https://balackburn.github.io/Apollo/"
     },
-    {
-      "title": "0.0.5 - Apollo for Reddit",
-      "identifier": "release-0.0.5",
-      "caption": "Update of ApolloPatcher just got released!",
-      "date": "2023-07-14T04:04:14Z",
-      "tintColor": "3F91FE",
-      "imageURL": "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/news/news_2.webp",
-      "notify": true,
-      "url": "https://github.com/ichitaso/ApolloPatcher/releases/tag/v0.0.5"
-    },
-    {
-      "title": "1.15.11-1.4 - Apollo for Reddit",
-      "identifier": "release-1.15.11-1.4",
-      "caption": "Update of Apollo (with Artemis) just got released!",
-      "date": "2023-10-11T22:15:35Z",
-      "tintColor": "3F91FE",
-      "imageURL": "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/news/news_2.webp",
-      "notify": true,
-      "url": "https://github.com/Balackburn/Apollo/releases/tag/v1.15.11-1.4"
-    },
-    {
-      "title": "1.15.11-1.0.5 - Apollo for Reddit",
-      "identifier": "release-1.15.11-1.0.5",
-      "caption": "Update of Apollo (with ImprovedCustomApi) just got released!",
-      "appID": "com.foo.Apollo",
-      "date": "2023-12-04T10:09:25Z",
-      "tintColor": "3F91FE",
-      "imageURL": "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/news/news_2.webp",
-      "notify": true,
-      "url": "https://github.com/Balackburn/Apollo/releases/tag/v1.15.11-1.0.5"
-    },
-    {
-      "title": "1.15.11-1.0.7 - Apollo for Reddit",
-      "identifier": "release-1.15.11-1.0.7",
-      "caption": "Update of Apollo (with ImprovedCustomApi) just got released!",
-      "appID": "com.foo.Apollo",
-      "date": "2023-12-08T12:08:07Z",
-      "tintColor": "3F91FE",
-      "imageURL": "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/news/news_2.webp",
-      "notify": true,
-      "url": "https://github.com/Balackburn/Apollo/releases/tag/v1.15.11-1.0.7"
-    },
-    {
-      "title": "1.15.11-1.0.8 - Apollo for Reddit",
-      "identifier": "release-1.15.11-1.0.8",
-      "caption": "Update of Apollo (with ImprovedCustomApi) just got released!",
-      "appID": "com.foo.Apollo",
-      "date": "2023-12-16T15:09:37Z",
-      "tintColor": "3F91FE",
-      "imageURL": "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/news/news_2.webp",
-      "notify": true,
-      "url": "https://github.com/Balackburn/Apollo/releases/tag/v1.15.11-1.0.8"
-    },
-    {
-      "title": "1.15.11-1.0.9 - Apollo for Reddit",
-      "identifier": "release-1.15.11-1.0.9",
-      "caption": "Update of Apollo (with ImprovedCustomApi) just got released!",
-      "appID": "com.foo.Apollo",
-      "date": "2023-12-30T08:52:04Z",
-      "tintColor": "3F91FE",
-      "imageURL": "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/news/news_2.webp",
-      "notify": true,
-      "url": "https://github.com/Balackburn/Apollo/releases/tag/v1.15.11-1.0.9"
-    },
-    {
-      "title": "1.15.11-1.0.10 - Apollo for Reddit",
-      "identifier": "release-1.15.11-1.0.10",
-      "caption": "Update of Apollo (with ImprovedCustomApi) just got released!",
-      "appID": "com.foo.Apollo",
-      "date": "2024-01-23T12:32:35Z",
-      "tintColor": "3F91FE",
-      "imageURL": "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/news/news_2.webp",
-      "notify": true,
-      "url": "https://github.com/Balackburn/Apollo/releases/tag/v1.15.11-1.0.10"
-    },
-    {
-      "title": "1.15.11-1.0.11 - Apollo for Reddit",
-      "identifier": "release-1.15.11-1.0.11",
-      "caption": "Update of Apollo (with ImprovedCustomApi) just got released!",
-      "appID": "com.foo.Apollo",
-      "date": "2024-02-28T12:33:18Z",
-      "tintColor": "3F91FE",
-      "imageURL": "https://raw.githubusercontent.com/Balackburn/Apollo/main/images/news/news_2.webp",
-      "notify": true,
-      "url": "https://github.com/Balackburn/Apollo/releases/tag/v1.15.11-1.0.11"
-    }
   ]
 }
