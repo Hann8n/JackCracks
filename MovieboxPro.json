@@ -1,43 +1,122 @@
 {
-"name":"MovieBox Pro for AltStore / SideStore",
-"identifier": "com.MBPAltstore.source",
-"apps": [
-	{
-		"name": "MovieBoxPro",
-		"bundleIdentifier": "com.xd.mbp31",
-		"developerName": "MBP Team",
-		"subtitle": "Watch Movies & TV for free with MovieBoxPro",
-		"version": "13.3",
-		"versionDate": "2023-09-15T00:00:00-00:00",
-		"versionDescription": "Bug Fixes.",
-		"downloadURL": "https://www.movieboxpro.app/ipa",
-		"localizedDescription": "MovieBoxPro is a best in-class streaming service. Enjoy Movies and TV on your phone or cast to your smartTV.",
-		"iconURL": "https://static.appdb.to/images/cydia-1900000473-icon-1632331220.png",
-		"tintColor": "#c29f00",
-		"size": 22000000,
-		"permissions": [{
-			"type": "photos",
-			"usageDescription": "Allows MovieBoxPro to use images from your Photo Library."
-		}],
-		"screenshotURLs": [
-			"https://static.appdb.to/images/cydia-1900000473-iphone-0-1669498440.png",
-			"https://static.appdb.to/images/cydia-1900000473-iphone-1-1669498440.png",
-			"https://static.appdb.to/images/cydia-1900000473-iphone-2-1669498440.png",
-			"https://static.appdb.to/images/cydia-1900000473-iphone-3-1669498441.png"
-		]
-	}
-],
-"news": [
-	{
-		"title": "MovieBox Pro 12.5 Update!",
-		"identifier": "com.xd.mbp31",
-		"caption": "Now on Altstore!",
-		"tintColor": "#000000",
-		"imageURL": "https://www.movieboxpro.app/static/img/pc/vip_1.png",
-		"appID": "com.xd.mbp31",
-		"date": "2022-11-24",
-		"notify": false
-	}
-],
-"userInfo": {}
+  "name": "MovieBoxPro for AltStore",
+  "identifier": "com.MBPAltstore.source",
+  "headerURL": "https://www.movieboxpro.app/static/img/pc/introduce_bg1.png",
+  "website": "https://www.movieboxpro.app",
+  "subtitle": "MovieBoxPro Unoffical Altstore source.",
+  "description": "This is an auto-updating Altstore source for MovieBoxPro [ Github: https://github.com/Hann8n/JackCracks/tree/main ]",
+  "tintColor": "c29f00",
+  "apps": [
+    {
+      "beta": false,
+      "name": "MovieBoxPro",
+      "bundleIdentifier": "com.xd.mbp31",
+      "developerName": "MBP Team",
+      "subtitle": "Watch Movies and TV for free with MovieBoxPro",
+      "version": "13.3",
+      "versionDate": "2024-01-15T12:33:18Z",
+      "versionDescription": "Bug fixes and improvements",
+      "downloadURL": "https://www.movieboxpro.app/ipa",
+      "localizedDescription": "MovieBoxPro is a best in-class streaming service. Enjoy Movies and TV on your phone or cast to your smartTV.",
+      "iconURL": "https://static.appdb.to/images/cydia-1900000473-icon-1632331220.png",
+      "tintColor": "c29f00",
+      "category": "entertainment",
+      "size": 108157712,
+      "screenshotURLs": [
+        "https://static.appdb.to/images/cydia-1900000473-iphone-0-1669498440.png",
+        "https://static.appdb.to/images/cydia-1900000473-iphone-1-1669498440.png",
+        "https://static.appdb.to/images/cydia-1900000473-iphone-2-1669498440.png",
+        "https://static.appdb.to/images/cydia-1900000473-iphone-3-1669498441.png",
+      
+      ],
+      "versions": [
+   {
+    "version": "13.3",
+    "date": "2024-03-11",
+    "localizedDescription": "Bug fixes and Improvements",
+    "downloadURL": "https://www.movieboxpro.app/ipa",
+    "size": 22000000,
+    "minOSVersion": "11.0",
+    "maxOSVersion": "17.4"
+  },
+      ],
+      "appPermissions": {
+        "entitlements": [
+          {
+            "name": "beta-reports-active"
+          },
+          {
+            "name": "com.apple.developer.group-session"
+          },
+          {
+            "name": "com.apple.developer.networking.wifi-info"
+          },
+          {
+            "name": "keychain-access-groups"
+          },
+          {
+            "name": "aps-environment"
+          },
+        ],
+        "privacy": [
+          {
+            "name": "Camera",
+            "usageDescription": "App may ask to use camera."
+          },
+          {
+            "name": "BluetoothAlways",
+            "usageDescription": "App may ask to use Bluetooth."
+          },
+          {
+            "name": "LocationWhenInUse",
+            "usageDescription": "App may ask for location when app is in use. (Not Recommended)"
+          },
+          {
+            "name": "LocalNetwork",
+            "usageDescription": "App may ask to use Local Network, required when casting."
+          },
+          {
+            "name": "Microphone",
+            "usageDescription": "App may ask to use microphone."
+          },
+          {
+            "name": "BluetoothPeripheral",
+            "usageDescription": "App may ask to access peripheral bluetooth devices, such as a remote."
+          },
+          {
+            "name": "LocationAlwaysAndWhenInUse",
+            "usageDescription": "App may ask for location at all times. (Not Recommended)"
+          },
+          {
+            "name": "LocationAlways",
+            "usageDescription": "App may ask for location when running in background. (Not Recommended)"
+          },
+          {
+            "name": "PhotoLibraryAdd",
+            "usageDescription": "App may ask to add photos to photo library."
+          },
+          {
+            "name": "PhotoLibrary",
+            "usageDescription": "App may ask to access photo library."
+          },
+          {
+            "name": "UserTracking",
+            "usageDescription": "App may ask to track user. (Not Recommended)"
+          }
+        ]
+      }
+    }
+  ],
+  "news": [
+    {
+      "title": "MovieBoxPro is on Altstore 2.0!",
+      "identifier": "mbp-1",
+      "caption": "Source has been updated to support Altstore 2.0",
+      "date": "2024-03-11",
+      "tintColor": "000000",
+      "imageURL": "https://www.movieboxpro.app/static/img/pc/introduce_img1.png",
+      "notify": false,
+      "url": "https://www.movieboxpro.app"
+    },
+  ]
 }
