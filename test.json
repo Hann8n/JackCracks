@@ -72,7 +72,7 @@
             "usageDescription": "App needs location when in use."
           },
           {
-            "name": "Local Network",
+            "name": "LocalNetwork",
             "usageDescription": "App needs Local Network when casting."
           },
           {
@@ -88,7 +88,7 @@
             "usageDescription": "App accesses photo library."
           },
           {
-            "name": "User Tracking",
+            "name": "UserTracking",
             "usageDescription": "App may ask to track user."
           }
         ]
