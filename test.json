@@ -4,7 +4,7 @@
   "headerURL": "https://www.movieboxpro.app/static/img/pc/introduce_bg1.png",
   "website": "https://www.movieboxpro.app",
   "subtitle": "MovieBoxPro Unoffical Altstore source.",
-  "description": "This is an auto-updating Altstore source for MovieBoxPro /r/n Github: https://github.com/Hann8n/JackCracks/tree/main",
+  "description": "This is an auto-updating Altstore source for MovieBoxProq	Github: https://github.com/Hann8n/JackCracks/tree/main",
   "tintColor": "c29f00",
   "apps": [
     {
@@ -12,7 +12,7 @@
       "name": "MovieBoxPro",
       "bundleIdentifier": "com.xd.mbp31",
       "developerName": "MBP Team",
-      "subtitle": "The best app to watch Movies and TV",
+      "subtitle": "Watch Movies and TV for free with MovieBoxPro",
       "version": "13.3",
       "versionDate": "2024-01-15T12:33:18Z",
       "versionDescription": "Bug fixes and improvements",
