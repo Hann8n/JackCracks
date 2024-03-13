@@ -55,6 +55,9 @@
             "name": "keychain-access-groups"
           },
           {
+            "name": "get-task-allow"
+          },
+          {
             "name": "aps-environment"
           },
         ],
