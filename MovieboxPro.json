@@ -37,7 +37,7 @@
     "downloadURL": "https://www.movieboxpro.app/ipa",
     "size": 22000000,
     "minOSVersion": "11.0",
-    "maxOSVersion": "17.4"
+    "maxOSVersion": "18.0"
   },
       ],
       "appPermissions": {
