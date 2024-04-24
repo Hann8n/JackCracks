@@ -13,9 +13,9 @@
       "bundleIdentifier": "com.xd.mbp31",
       "developerName": "MBP Team",
       "subtitle": "Watch Movies and TV for free with MovieBoxPro",
-      "version": "13.4",
+      "version": "13.5",
       "versionDate": "2024-03-11T12:33:18Z",
-      "versionDescription": "Bug fixes and improvements",
+      "versionDescription": "Support hide the Movies You Might Like on the homepage. Logged-in devices now support adding remarks. Movielist supports importing movies and TV shows from IMDb watchlists.",
       "downloadURL": "https://www.movieboxpro.app/ipa",
       "localizedDescription": "MovieBoxPro is a best in-class streaming service. Enjoy Movies and TV on your phone or cast to your smartTV.",
       "iconURL": "https://github.com/Hann8n/JackCracks/blob/main/Untitled%20design.png?raw=true",
@@ -32,7 +32,7 @@
       "versions": [
    {
     "version": "13.4",
-    "date": "2024-03-11",
+    "date": "2024-04-24",
     "localizedDescription": "Bug fixes and Improvements",
     "downloadURL": "https://www.movieboxpro.app/ipa",
     "size": 22000000,
