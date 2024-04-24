@@ -31,9 +31,9 @@
       ],
       "versions": [
    {
-    "version": "13.4",
+    "version": "13.5",
     "date": "2024-04-24",
-    "localizedDescription": "Bug fixes and Improvements",
+    "localizedDescription": "Support hide the Movies You Might Like on the homepage. Logged-in devices now support adding remarks. Movielist supports importing movies and TV shows from IMDb watchlists."
     "downloadURL": "https://www.movieboxpro.app/ipa",
     "size": 22000000,
     "minOSVersion": "11.0",
