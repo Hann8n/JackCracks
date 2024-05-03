@@ -3,8 +3,8 @@
   "identifier": "com.MBPAltstore.source",
   "headerURL": "https://www.movieboxpro.app/static/img/pc/introduce_bg1.png",
   "website": "https://www.movieboxpro.app",
-  "subtitle": "MovieBoxPro Unoffical Altstore source.",
-  "description": "This is an auto-updating Altstore source for MovieBoxPro [ Github: https://github.com/Hann8n/JackCracks/tree/main ]",
+  "subtitle": "MovieBoxPro Unofficial Altstore source.",
+  "description": "This is an auto-updating Altstore source for MovieBoxPro. [Github: https://github.com/Hann8n/JackCracks/tree/main]",
   "tintColor": "2d2d30",
   "apps": [
     {
@@ -26,86 +26,40 @@
         "https://static.appdb.to/images/cydia-1900000473-iphone-0-1669498440.png",
         "https://static.appdb.to/images/cydia-1900000473-iphone-1-1669498440.png",
         "https://static.appdb.to/images/cydia-1900000473-iphone-2-1669498440.png",
-        "https://static.appdb.to/images/cydia-1900000473-iphone-3-1669498441.png",
-      
+        "https://static.appdb.to/images/cydia-1900000473-iphone-3-1669498441.png"
       ],
       "versions": [
-   {
-    "version": "13.5",
-    "date": "2024-04-24",
-    "localizedDescription": "Support hide the Movies You Might Like on the homepage. Logged-in devices now support adding remarks. Movielist supports importing movies and TV shows from IMDb watchlists."
-    "downloadURL": "https://www.movieboxpro.app/ipa",
-    "size": 22000000,
-    "minOSVersion": "11.0",
-    "maxOSVersion": "18.0"
-  },
+        {
+          "version": "13.5",
+          "date": "2024-04-24",
+          "localizedDescription": "Support hide the Movies You Might Like on the homepage. Logged-in devices now support adding remarks. Movielist supports importing movies and TV shows from IMDb watchlists.",
+          "downloadURL": "https://www.movieboxpro.app/ipa",
+          "size": 22000000,
+          "minOSVersion": "11.0",
+          "maxOSVersion": "18.0"
+        }
       ],
       "appPermissions": {
         "entitlements": [
-          {
-            "name": "beta-reports-active"
-          },
-          {
-            "name": "com.apple.developer.group-session"
-          },
-          {
-            "name": "com.apple.developer.networking.wifi-info"
-          },
-          {
-            "name": "keychain-access-groups"
-          },
-          {
-            "name": "get-task-allow"
-          },
-          {
-            "name": "aps-environment"
-          },
+          {"name": "beta-reports-active"},
+          {"name": "com.apple.developer.group-session"},
+          {"name": "com.apple.developer.networking.wifi-info"},
+          {"name": "keychain-access-groups"},
+          {"name": "get-task-allow"},
+          {"name": "aps-environment"}
         ],
         "privacy": [
-          {
-            "name": "Camera",
-            "usageDescription": "App may ask to use camera."
-          },
-          {
-            "name": "BluetoothAlways",
-            "usageDescription": "App may ask to use Bluetooth."
-          },
-          {
-            "name": "LocationWhenInUse",
-            "usageDescription": "App may ask for location when app is in use. (Not Recommended)"
-          },
-          {
-            "name": "LocalNetwork",
-            "usageDescription": "App may ask to use Local Network, required when casting."
-          },
-          {
-            "name": "Microphone",
-            "usageDescription": "App may ask to use microphone."
-          },
-          {
-            "name": "BluetoothPeripheral",
-            "usageDescription": "App may ask to access peripheral bluetooth devices, such as a remote."
-          },
-          {
-            "name": "LocationAlwaysAndWhenInUse",
-            "usageDescription": "App may ask for location at all times. (Not Recommended)"
-          },
-          {
-            "name": "LocationAlways",
-            "usageDescription": "App may ask for location when running in background. (Not Recommended)"
-          },
-          {
-            "name": "PhotoLibraryAdd",
-            "usageDescription": "App may ask to add photos to photo library."
-          },
-          {
-            "name": "PhotoLibrary",
-            "usageDescription": "App may ask to access photo library."
-          },
-          {
-            "name": "UserTracking",
-            "usageDescription": "App may ask to track user. (Not Recommended)"
-          }
+          {"name": "Camera", "usageDescription": "App may ask to use camera."},
+          {"name": "BluetoothAlways", "usageDescription": "App may ask to use Bluetooth."},
+          {"name": "LocationWhenInUse", "usageDescription": "App may ask for location when app is in use. (Not Recommended)"},
+          {"name": "LocalNetwork", "usageDescription": "App may ask to use Local Network, required when casting."},
+          {"name": "Microphone", "usageDescription": "App may ask to use microphone."},
+          {"name": "BluetoothPeripheral", "usageDescription": "App may ask to access peripheral bluetooth devices, such as a remote."},
+          {"name": "LocationAlwaysAndWhenInUse", "usageDescription": "App may ask for location at all times. (Not Recommended)"},
+          {"name": "LocationAlways", "usageDescription": "App may ask for location when running in background. (Not Recommended)"},
+          {"name": "PhotoLibraryAdd", "usageDescription": "App may ask to add photos to photo library."},
+          {"name": "PhotoLibrary", "usageDescription": "App may ask to access photo library."},
+          {"name": "UserTracking", "usageDescription": "App may ask to track user. (Not Recommended)"}
         ]
       }
     }
@@ -120,6 +74,6 @@
       "imageURL": "https://www.movieboxpro.app/static/img/pc/introduce_img1.png",
       "notify": false,
       "url": "https://www.movieboxpro.app"
-    },
+    }
   ]
 }
