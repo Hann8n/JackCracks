@@ -30,12 +30,12 @@
       ],
       "versions": [
         {
-          "version": "13.8",
-          "date": "2024-06-01",
+          "version": "14.0",
+          "date": "2024-09-20",
           "localizedDescription": "Bug fixes",
           "downloadURL": "https://www.movieboxpro.app/ipa",
           "size": 22000000,
-          "minOSVersion": "11.0",
+          "minOSVersion": "15.0",
           "maxOSVersion": "18.0"
         }
       ],
