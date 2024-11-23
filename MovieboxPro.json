@@ -13,8 +13,8 @@
       "bundleIdentifier": "com.xd.mbp31",
       "developerName": "MBP Team",
       "subtitle": "Watch Movies and TV for free with MovieBoxPro",
-      "version": "14.0",
-      "versionDate": "2024-09-20T12:33:18Z",
+      "version": "14.1",
+      "versionDate": "2024-11-21T12:33:18Z",
       "versionDescription": "Support add subtitles from the Subdl website",
       "downloadURL": "https://www.movieboxpro.app/ipa",
       "localizedDescription": "MovieBoxPro is a best in-class streaming service. Enjoy Movies and TV on your phone or cast to your smartTV.",
@@ -30,8 +30,8 @@
       ],
       "versions": [
         {
-          "version": "14.0",
-          "date": "2024-09-20",
+          "version": "14.1",
+          "date": "2024-11-21",
           "localizedDescription": "Bug fixes",
           "downloadURL": "https://www.movieboxpro.app/ipa",
           "size": 22000000,
